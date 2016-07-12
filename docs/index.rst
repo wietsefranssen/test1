@@ -1,3 +1,10 @@
+wietsetest-project chapter 1
+===================
+Contents:
+
+.. doxygenclass:: Nutshell
+   :members:
+
 wietsetest-project
 ===================
 
