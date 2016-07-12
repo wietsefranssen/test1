@@ -243,7 +243,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocs-breathe', 'WietseTestProject Documentation',
+    ('index', 'wietsetest-project', 'WietseTestProject Documentation',
      ['Wietse Franssen'], 1)
 ]
 
