@@ -1,4 +1,4 @@
-PROJECT_NAME     = "ReadTheDocs-Breathe TestBone"
+PROJECT_NAME     = "WietseTestProject TestBone"
 XML_OUTPUT       = doxyxml
 GENERATE_LATEX   = NO
 GENERATE_MAN     = NO

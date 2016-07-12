@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# ReadTheDocs-Breathe documentation build configuration file, created by
+# WietseTestProject documentation build configuration file, created by
 # sphinx-quickstart on Mon Feb 10 20:03:57 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -44,8 +44,8 @@ extensions = [
 ]
 
 # Breathe extension variables
-breathe_projects = { "ReadTheDocs-Breathe": "doxyxml/" }
-breathe_default_project = "ReadTheDocs-Breathe"
+breathe_projects = { "WietseTestProject": "doxyxml/" }
+breathe_default_project = "WietseTestProject"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -60,7 +60,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'ReadTheDocs-Breathe'
+project = 'WietseTestProject'
 copyright = '2016, blabla'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -193,7 +193,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ReadTheDocs-Breathedoc'
+htmlhelp_basename = 'WietseTestProjectdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -213,7 +213,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadTheDocs-Breathe.tex', 'ReadTheDocs-Breathe Documentation',
+  ('index', 'WietseTestProject.tex', 'WietseTestProject Documentation',
    'Wietse Franssen', 'manual'),
 ]
 
@@ -243,7 +243,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocs-breathe', 'ReadTheDocs-Breathe Documentation',
+    ('index', 'readthedocs-breathe', 'WietseTestProject Documentation',
      ['Wietse Franssen'], 1)
 ]
 
@@ -257,8 +257,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadTheDocs-Breathe', 'ReadTheDocs-Breathe Documentation',
-   'Wietse Franssen', 'ReadTheDocs-Breathe', 'One line description of project.',
+  ('index', 'WietseTestProject', 'WietseTestProject Documentation',
+   'Wietse Franssen', 'WietseTestProject', 'One line description of project.',
    'Miscellaneous'),
 ]
 
