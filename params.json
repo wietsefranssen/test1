@@ -1,6 +1,6 @@
 {
   "name": "Test2",
   "tagline": "this is a test repo",
-  "body": "# test1\r\nthis is a test repo\r\n\r\ndocumentation about this project can be found at: \r\n\r\n[wietsetest1.readthedocs.io](http://wietsetest1.readthedocs.io)\r\n\r\n[readmePage](https://wietsefranssen.github.io)\r\n",
+  "body": "# test1\r\nthis is a test repo\r\n\r\ndocumentation about this project can be found at: \r\n\r\n[wietsetest1.readthedocs.io](http://wietsetest1.readthedocs.io)\r\n\r\n[readmePage](https://wietsefranssen.github.io/test1)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
