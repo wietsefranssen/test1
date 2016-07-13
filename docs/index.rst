@@ -1,6 +1,9 @@
 wietsetest-project chapter 1
 ============================
 
+.. toctree::
+   :maxdepth: 3
+
 Indices and tables
 ==================
 
@@ -41,5 +44,3 @@ Hello this is a test
 
 Contents:
 
-.. toctree::
-   :maxdepth: 3
