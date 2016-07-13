@@ -17,9 +17,12 @@ Documentation
 .. literalinclude:: ../src/main2.c
    :language: c
    :emphasize-lines: 12,15-18
+   :lines: 1,3,5-16,20-
    :linenos:
 
 .. code-block:: c
+   :language: c
+   :linenos:
 
    // Some C code.
    printf("hoi");
