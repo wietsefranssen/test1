@@ -16,10 +16,16 @@ Documentation
 
 .. literalinclude:: ../src/main2.c
    :language: c
+   :lines: 5-16,20-
    :emphasize-lines: 12,15-18
-   :lines: 1,3,5-16,20-
    :linenos:
 
+.. graphviz::
+
+   digraph foo {
+      "bar" -> "baz";
+   }
+   
 .. code-block:: c
    :linenos:
 
