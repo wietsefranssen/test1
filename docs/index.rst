@@ -21,7 +21,6 @@ Documentation
    :linenos:
 
 .. code-block:: c
-   :language: c
    :linenos:
 
    // Some C code.
