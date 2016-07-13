@@ -1,9 +1,20 @@
 wietsetest-project chapter 1
-===================
+============================
 wietsetest-project subsectio
-------------------
+----------------------------
+
+.. doxygenindex::
+
+###################
+
 
 Hello this is a test
+
+#.. doxygenfunction:: main
+
+#.. doxygenfunction:: hoiFunction
+
+#.. doxygenfile:: main.c
 
 - bullet
 - bullet
@@ -25,7 +36,7 @@ link
 -.. _Wikipedia: http://www.wikipedia.org/
 -.. _Linux kernel archive: http://www.kernel.org/
 
-__ https://www.python.org/
+#__ https://www.python.org/
 
 
 .. code: c
@@ -52,9 +63,6 @@ link end
 
 Contents:
 
-.. doxygenclass:: Main
-   :members:
-
 wietsetest-project
 ===================
 
@@ -63,8 +71,8 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-.. doxygenclass:: Nutshell
-   :members:
+#.. doxygenclass:: Nutshell
+#   :members:
 
 Indices and tables
 ==================
