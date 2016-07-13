@@ -4,11 +4,11 @@ wietsetest-project subsectio
 ------------------
 
 Hello this is a test
+
 - bullet
 - bullet
   - bullet
 - bullet
-
 
 - rtweee
 - rtweee
@@ -18,15 +18,22 @@ Hello this is a test
 
 link
 .. _Wikipedia: http://www.wikipedia.org/
+
 .. _Linux kernel archive: http://www.kernel.org/
+
+-.. _Wikipedia: http://www.wikipedia.org/
+-.. _Linux kernel archive: http://www.kernel.org/
 
 __ https://www.python.org/
 
 
 .. code: c
+
    printf("hoi");
 
 .. code: c++
+
+
    printf("hoi");
    {
      printf("hhi");
@@ -36,6 +43,10 @@ __ https://www.python.org/
    printf("hoi");
 
 link end
+
+::
+  
+  hoihoi
 
 Contents:
 
