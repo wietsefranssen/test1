@@ -14,7 +14,7 @@ Indices and tables
 Documentation
 =============
 
-.. literalinclude:: main.c
+.. literalinclude:: ../src/main2.c
 
 
 .. code-block:: c
@@ -30,6 +30,7 @@ Documentation
        print 'This line is highlighted.'
        print 'This one is not...'
        print '...but this one is.'
+       
 ###################
 
 All Code
