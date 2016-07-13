@@ -15,7 +15,9 @@ Documentation
 =============
 
 .. literalinclude:: ../src/main2.c
-
+   :language: c
+   :emphasize-lines: 12,15-18
+   :linenos:
 
 .. code-block:: c
 
